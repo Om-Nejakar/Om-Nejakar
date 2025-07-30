@@ -12,7 +12,7 @@
 ###
 
 <p align="left">
-✨ Coding since 2021<br>
+✨ Coding since 2023<br>
 📚 Currently learning Machine Learning and Active Directory Security<br>
 💼 Cybersecurity Intern (focused on Active Directory)<br>
 🎯 Goal: To grow as a developer and cybersecurity enthusiast<br>
