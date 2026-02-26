@@ -60,14 +60,15 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<h2 align="left">LeetCode Stats</h2>
+<!-- <h2 align="left">LeetCode Stats</h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Om_Nejakar?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Om_Nejakar?theme=dark&font=Karma&ext=contest) -->
 
 <h2 align="left">Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-nejakar/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Om_Nejakar/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/om_nejakar/)
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Om-Nejakar/Om-Nejakar/output/snake.svg" alt="Snake animation" />
