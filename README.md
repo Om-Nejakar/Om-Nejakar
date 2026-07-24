@@ -23,7 +23,7 @@
 
 ---
 
-# 📄 Resume
+# Resume
 
 <p align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a Computer Science and Engineering student at PES University passionate about software engineering and artificial intelligence. I have experience fine-tuning large language models using QLoRA, Hugging Face, and Ollama, building full-stack MERN applications, and working with Active Directory security. I enjoy developing practical solutions that combine AI, scalable backend systems, and secure software design.
 
@@ -137,10 +137,16 @@ I'm a Computer Science and Engineering student at PES University passionate abou
 </a>
 </p>
 
+<!-- *************************************-->
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Om-Nejakar&theme=github-compact&hide_border=true"/>
+</p>
 <!-- ==================== SNAKE ==================== -->
 
-<br clear="both">
+<!-- <br clear="both">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Om-Nejakar/Om-Nejakar/output/snake.svg" alt="snake animation"/>
-</p>
+</p> -->
