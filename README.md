@@ -1,7 +1,7 @@
 <!-- ==================== TOP SECTION ==================== -->
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:007CF0&height=220&section=header&text=Om%20Nejakar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20(MERN)%20%7C%20Active%20Directory%20Security%20%7C%20Machine%20Learning&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:007CF0&height=220&section=header&text=Om%20Nejakar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineer%20|%20AI/ML%20|%20Full-Stack%20|%20Cybersecurity&descAlignY=55"/>
 
 </p>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=800&lines=Web+Developer+(MERN);Active+Directory+Security;Machine+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=900&lines=Computer+Science+Engineer;AI%2FML+Engineering;Full-Stack+Development+(MERN);Cybersecurity+%7C+Active+Directory;Building+Scalable+AI+Applications"/>
 
 </p>
 
@@ -39,12 +39,7 @@
 
 # 🚀 About Me
 
-<p align="left">
-💻 Developer | 🔐 Cybersecurity Intern | 🤖 ML Explorer <br>
-📚 Learning Active Directory Security & Machine Learning <br>
-🎯 Building skills in Web + Security + AI <br>
-🎲 I break things to understand how they work 😄
-</p>
+I'm a Computer Science and Engineering student at PES University passionate about software engineering and artificial intelligence. I have experience fine-tuning large language models using QLoRA, Hugging Face, and Ollama, building full-stack MERN applications, and working with Active Directory security. I enjoy developing practical solutions that combine AI, scalable backend systems, and secure software design.
 
 <!-- ==================== LANGUAGES ==================== -->
 
