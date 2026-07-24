@@ -27,7 +27,7 @@
 
 <p align="center">
 
-<a href="https://drive.google.com/file/d/1n_eOHAD5ddIqMr6-8rlq1sb4mRTJVqMr/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1qAgSg_LKHCOZrdQcWv_p9-tqScpNtdW-/view?usp=sharing">
 
 <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-00FFD1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 
